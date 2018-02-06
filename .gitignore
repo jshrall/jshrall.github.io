@@ -1,0 +1,28 @@
+.*/
+
+# VIM swap/backup
+*~
+*.bak
+.*.sw?
+_.sw?
+.sw?
+.sw?.part
+
+# Sublime setup
+#*.sublime*
+
+.svn/
+
+# Word swap
+~*
+
+# Misc windows
+*.lnk
+
+#emacs pollution
+*.*~
+
+#chrome pollution
+debug.log
+#Mac OS X pollution
+.DS_Store
